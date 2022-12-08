@@ -17,9 +17,15 @@ OUTPUT IS:
 
 
 
-3. Get datewise top 25 gainers for last 30 days as per point 4 above.
+2. Get datewise top 25 gainers for last 30 days as per point 4 above.
 OUTPUT IS:
 
 ![image](https://user-images.githubusercontent.com/63302398/206191491-28d3b60a-ef27-4ba9-a13d-c7f61b8c76be.png)
 
 Similarly whole all 30 days top 25 gainers are been listed.
+
+3. you can also get a single list of top 25 gainers based on open of oldest day and close of latest day of those 30 days as per point 4.
+OUTPUT is:
+
+![image](https://user-images.githubusercontent.com/63302398/206380058-52477bd7-c437-4562-8b0c-937fd32a4f75.png)
+
